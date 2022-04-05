@@ -12,4 +12,4 @@ Projeto com uma contagem regressiva.
 
 Exemplo:
 
-<https://countdown-flax.vercel.app/?msg=Anivers%C3%A1rio%20Helena&date=1656734520>.
+<https://countdown-flax.vercel.app/?msg=Anivers%C3%A1rio%20Helena&date=1656734520000>.
